@@ -6,8 +6,9 @@
 
 // [1, 2, 3, 4] + false
 
-function divide(a, b) {
-    return a / b
-}
+// function divide(a, b) {
+//     return a / b
+// }
 
-divide("zz", "zzz")
+// divide("zz", "zzz")
+
